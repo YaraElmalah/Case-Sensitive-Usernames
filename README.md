@@ -11,6 +11,8 @@ Enforcing case sensitivity in usernames requires modifying your Django authentic
 3. **Update Authentication Backend**:
    Modify your authentication backend to use the case-sensitive username field for authentication.
 
+   ----
+
 Here's a general guide to implementing case-sensitive usernames:
 
 **Step 1: Create a Custom User Model**
